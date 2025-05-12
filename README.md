@@ -1,4 +1,4 @@
-# Hi there, I'm [Denver Chua]! 👋
+# Hi there, I'm Denver Chua! 👋
 This account of mine is relatively new, and will be used for my future projects. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/denver-chua-943ba235a)
@@ -15,7 +15,6 @@ This account of mine is relatively new, and will be used for my future projects.
 **Technologies**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 🔥 Current Projects
 
